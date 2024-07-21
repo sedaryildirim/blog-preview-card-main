@@ -54,8 +54,8 @@ This is a solution to the [Blog Preview Card challenge on Frontend Mentor](hhttp
 
 <div align="center">
 
-![Mobile](/imgs/mobile.png)
-![Desktop](/imgs/desktop.png)
+![Mobile](./assets/imgs/mobile.png)
+![Desktop](./assets/imgs/desktop.png)
 </div>
 
 ### Links
