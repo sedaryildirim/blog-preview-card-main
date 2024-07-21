@@ -15,21 +15,21 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
-<h3 align="center">Frontend Mentor - TITLE HERE</h3>
+<h3 align="center">Frontend Mentor - Blog Preview Card</h3>
 
 Basic folder structure for creating projects from frontend mentor lessons
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution to the [Blog Preview Card challenge on Frontend Mentor](hhttps://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
   <p align="center">   
 <br />
     <br />
     <br />
-    <a href="https://sedaryildirim.github.io/qr-code-component-main/">View Site</a>
+    <a href="https://sedaryildirim.github.io/blog-preview-card-main/">View Site</a>
     ·
-    <a href="https://github.com/sedaryildirim/qr-code-component-main/issues">Report Bug</a>
+    <a href="https://github.com/sedaryildirim/blog-preview-card-main/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sedaryildirim/qr-code-component-main/issues">Request Feature</a>
+    <a href="https://github.com/sedaryildirim/blog-preview-card-main/issues">Request Feature</a>
   </p>
 </div>
 
@@ -60,8 +60,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sedaryildirim/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://sedaryildirim.github.io/qr-code-component-main/)
+- Solution URL: [Add solution URL here](https://github.com/sedaryildirim/blog-preview-card-main)
+- Live Site URL: [Add live site URL here](https://sedaryildirim.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -94,12 +94,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sedaryildirim/qr-code-component-main.svg?style=for-the-badge
-[contributors-url]: https://github.com/sedaryildirim/qr-code-component-main/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sedaryildirim/qr-code-component-main.svg?style=for-the-badge
-[forks-url]: https://github.com/sedaryildirim/qr-code-component-main/network/members
-[stars-shield]: https://img.shields.io/github/stars/sedaryildirim/qr-code-component-main.svg?style=for-the-badge
-[stars-url]: https://github.com/sedaryildirim/qr-code-component-main/stargazers
-[license-shield]: https://img.shields.io/github/license/sedaryildirim/qr-code-component-main.svg?style=for-the-badge
-[license-url]: https://github.com/sedaryildirim/qr-code-component-main/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sedaryildirim/blog-preview-card-main.svg?style=for-the-badge
+[contributors-url]: https://github.com/sedaryildirim/blog-preview-card-main/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sedaryildirim/blog-preview-card-main.svg?style=for-the-badge
+[forks-url]: https://github.com/sedaryildirim/blog-preview-card-main/network/members
+[stars-shield]: https://img.shields.io/github/stars/sedaryildirim/blog-preview-card-main.svg?style=for-the-badge
+[stars-url]: https://github.com/sedaryildirim/blog-preview-card-main/stargazers
+[license-shield]: https://img.shields.io/github/license/sedaryildirim/blog-preview-card-main.svg?style=for-the-badge
+[license-url]: https://github.com/sedaryildirim/blog-preview-card-main/blob/main/LICENSE.txt
 [product-screenshot]: imgs/screenshot.png
