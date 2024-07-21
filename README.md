@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="imgs/200w.gif" alt="Logo">
+    <img src="/assets/imgs/200w.gif" alt="Logo">
   </a>
   <br />
   <br />
