@@ -126,9 +126,6 @@ body {
     color: hsl(228, 45%, 44%);
   }
 
-
-/* ... (previous CSS remains unchanged) ... */
-
 /* MAIN CONTENT */
 .wrapper {
     max-width: 380px;
